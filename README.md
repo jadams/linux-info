@@ -34,3 +34,8 @@
 |Enable Service|chkconfig <name> on|update-rc.d <name> defaults|systemctl enable <name>|
 |Disable Service|chkconfig <name> off|update-rc.d <name> disable|systemctl disable <name>|
 |Service File Directory|/etc/init.d/|/etc/rc{0,1,2,3,4,5,6}.d/|/usr/lib/systemd/system/|
+
+
+
+
+Please contribute via [email](mailto:linuxinfo@hexb.it) or [pull request](https://github.com/jadams/linux-info/pull/new/master)
